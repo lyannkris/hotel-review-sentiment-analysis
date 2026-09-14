@@ -52,10 +52,6 @@ The models were evaluated using **accuracy and Macro F1 score**, with Macro F1 s
 | BiLSTM | 88.77% | 0.78 |
 | **DistilBERT** | **90.41%** | **0.81** |
 
-<p align="center">
-  <img src="figures/model_performance.png" width="600">
-</p>
-
 **DistilBERT achieved the strongest overall performance**, reaching an accuracy of **90.41%** and a Macro F1 score of **0.81**.
 
 ## Best Model: DistilBERT
