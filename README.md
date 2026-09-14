@@ -96,7 +96,6 @@ Overall, the results demonstrate that using a pre-trained transformer can improv
 └── figures/
     ├── sentiment_distribution.png
     ├── rating_distribution.png
-    ├── model_performance.png
     ├── logistic_regression_confusion_matrix.png
     ├── bilstm_confusion_matrix.png
     └── distilbert_confusion_matrix.png
